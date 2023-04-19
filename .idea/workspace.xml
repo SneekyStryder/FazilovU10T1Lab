@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f93599cb-1314-4ba2-aaf6-17fec31da108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BunnyEars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExplorationU10T1Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Summing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListMystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreStringFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExplorationU10T1Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExplorationU10T1Problem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,37 +43,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveArray">
-    <configuration name="BunnyEars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BunnyEars" />
+  <component name="RunManager" selected="Application.RecursiveMinimum">
+    <configuration name="ArrayListMystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListMystery" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplorationU10T1Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExplorationU10T1Problem3" />
+    <configuration name="Countdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Countdown" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mystery" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveArray" />
+    <configuration name="MoreStringFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreStringFun" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Summing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Summing" />
+    <configuration name="RecursiveMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMinimum" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecursiveArray" />
-        <item itemvalue="Application.BunnyEars" />
-        <item itemvalue="Application.Mystery" />
-        <item itemvalue="Application.Summing" />
-        <item itemvalue="Application.ExplorationU10T1Problem3" />
+        <item itemvalue="Application.RecursiveMinimum" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ArrayListMystery" />
+        <item itemvalue="Application.MoreStringFun" />
+        <item itemvalue="Application.Countdown" />
       </list>
     </recent_temporary>
   </component>
