@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f93599cb-1314-4ba2-aaf6-17fec31da108" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListMystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Countdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreStringFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursiveMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bacteria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveMinimum">
+  <component name="RunManager" selected="Application.Bacteria">
     <configuration name="ArrayListMystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListMystery" />
       <module name="FazilovU10T1Lab" />
@@ -51,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Countdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Countdown" />
+    <configuration name="Bacteria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bacteria" />
       <module name="FazilovU10T1Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bacteria" />
         <item itemvalue="Application.RecursiveMinimum" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ArrayListMystery" />
         <item itemvalue="Application.MoreStringFun" />
-        <item itemvalue="Application.Countdown" />
       </list>
     </recent_temporary>
   </component>
